@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CLK Pin=TFT-SPI-240X322-18
+Added Pin To Net: NetName=HMOSI Pin=TFT-SPI-240X322-16
+Added Pin To Net: NetName=HMISO Pin=TFT-SPI-240X322-17
+Added Pin To Net: NetName=HCLK Pin=TFT-SPI-240X322-18
+Added Room: Name=Sheet1

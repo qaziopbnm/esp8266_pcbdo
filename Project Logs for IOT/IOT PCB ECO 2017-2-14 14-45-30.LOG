@@ -1,0 +1,5 @@
+Added Component: Designator=JP2(DC002)
+Added Pin To Net: NetName=VIN Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=JP2-3
+Added Member To Class: ClassName=Sheet1 Member=Component JP2 DC-002

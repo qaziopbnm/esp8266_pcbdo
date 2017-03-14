@@ -1,0 +1,130 @@
+Added Component: Designator=C1(C0603)
+Added Component: Designator=C2(SMT-EC-D10)
+Added Component: Designator=C3(C0603)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=C6(C0603)
+Added Component: Designator=C7(C0603)
+Added Component: Designator=C8(C0603)
+Added Component: Designator=C10(C0603)
+Added Component: Designator=D1(DO-214)
+Added Component: Designator=D2(DO-214)
+Added Component: Designator=D4(DO-214)
+Added Component: Designator=F1(RESC4532AN)
+Added Component: Designator=JP1(DC-005)
+Added Component: Designator=L1(L10X9)
+Added Component: Designator=NodeMcu(NodeMcu)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=R5(R0603)
+Added Component: Designator=R6(R0603)
+Added Component: Designator=S1(SW-SS-12D06)
+Added Component: Designator=TFT(HDR1X14)
+Added Component: Designator=U1(D008_N)
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=5V Pin=D2-2
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=5V Pin=NodeMcu-1
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=5V Pin=TFT-1
+Added Net: Name=5V
+Added Pin To Net: NetName=CLK Pin=NodeMcu-7
+Added Pin To Net: NetName=CLK Pin=P1-1
+Added Pin To Net: NetName=CLK Pin=TFT-10
+Added Net: Name=CLK
+Added Pin To Net: NetName=CS Pin=NodeMcu-9
+Added Pin To Net: NetName=CS Pin=TFT-11
+Added Net: Name=CS
+Added Pin To Net: NetName=D2 Pin=NodeMcu-11
+Added Pin To Net: NetName=D2 Pin=P1-4
+Added Net: Name=D2
+Added Pin To Net: NetName=DC Pin=NodeMcu-27
+Added Pin To Net: NetName=DC Pin=TFT-5
+Added Net: Name=DC
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=NodeMcu-2
+Added Pin To Net: NetName=GND Pin=NodeMcu-17
+Added Pin To Net: NetName=GND Pin=NodeMcu-24
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=TFT-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=HCLK Pin=NodeMcu-23
+Added Pin To Net: NetName=HCLK Pin=TFT-7
+Added Net: Name=HCLK
+Added Pin To Net: NetName=HCS Pin=NodeMcu-20
+Added Pin To Net: NetName=HCS Pin=TFT-3
+Added Net: Name=HCS
+Added Pin To Net: NetName=HMISO Pin=NodeMcu-22
+Added Pin To Net: NetName=HMISO Pin=TFT-9
+Added Net: Name=HMISO
+Added Pin To Net: NetName=HMOSI Pin=NodeMcu-21
+Added Pin To Net: NetName=HMOSI Pin=TFT-6
+Added Net: Name=HMOSI
+Added Pin To Net: NetName=LED Pin=NodeMcu-30
+Added Pin To Net: NetName=LED Pin=TFT-8
+Added Net: Name=LED
+Added Pin To Net: NetName=MISO Pin=NodeMcu-8
+Added Pin To Net: NetName=MISO Pin=P1-2
+Added Pin To Net: NetName=MISO Pin=TFT-13
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=NodeMcu-10
+Added Pin To Net: NetName=MOSI Pin=P1-3
+Added Pin To Net: NetName=MOSI Pin=TFT-12
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D4-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-8
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=F1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=C8-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-6
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R3-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U1-4
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=S1-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=F1-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=S1-2
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-5
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=RESET Pin=NodeMcu-28
+Added Pin To Net: NetName=RESET Pin=TFT-4
+Added Net: Name=RESET
+Added Pin To Net: NetName=T-IRQ Pin=NodeMcu-29
+Added Pin To Net: NetName=T-IRQ Pin=TFT-14
+Added Net: Name=T-IRQ
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

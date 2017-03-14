@@ -1,0 +1,10 @@
+Added Component: Designator=U2(SOIC-8)
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=NetR5_2 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetC4_1 Pin=U2-4
+Added Pin To Net: NetName=BAT Pin=U2-5
+Added Pin To Net: NetName=NetD2_2 Pin=U2-6
+Added Pin To Net: NetName=NetD3_2 Pin=U2-7
+Added Pin To Net: NetName=NetC4_1 Pin=U2-8
+Added Member To Class: ClassName=Sheet1 Member=Component U2 TP4056

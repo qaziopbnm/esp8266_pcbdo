@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED Pin=NodeMcu-30
+Removed Pin From Net: NetName=LED Pin=P2-1
+Added Pin To Net: NetName=NetNodeMcu_30 Pin=NodeMcu-30
+Added Pin To Net: NetName=NetNodeMcu_30 Pin=P2-1
+Added Net: Name=NetNodeMcu_30
+Added Room: Name=Sheet1

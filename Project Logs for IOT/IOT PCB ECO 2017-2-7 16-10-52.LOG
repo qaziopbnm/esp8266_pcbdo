@@ -1,0 +1,61 @@
+Added Component: Designator=P2(HDR1X15)
+Added Component: Designator=P3(HDR1X15)
+Added Pin To Net: NetName=LED Pin=P2-1
+Added Pin To Net: NetName=T-IRQ Pin=P2-2
+Added Pin To Net: NetName=RESET Pin=P2-3
+Added Pin To Net: NetName=DC Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-7
+Added Pin To Net: NetName=HCLK Pin=P2-8
+Added Pin To Net: NetName=HMISO Pin=P2-9
+Added Pin To Net: NetName=HMOSI Pin=P2-10
+Added Pin To Net: NetName=HCS Pin=P2-11
+Added Pin To Net: NetName=GND Pin=P2-14
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=CLK Pin=P3-7
+Added Pin To Net: NetName=MISO Pin=P3-8
+Added Pin To Net: NetName=CS Pin=P3-9
+Added Pin To Net: NetName=MOSI Pin=P3-10
+Added Pin To Net: NetName=D2 Pin=P3-11
+Added Pin To Net: NetName=NetNodeMcu_3 Pin=NodeMcu-3
+Added Pin To Net: NetName=NetNodeMcu_3 Pin=P3-3
+Added Net: Name=NetNodeMcu_3
+Added Pin To Net: NetName=NetNodeMcu_4 Pin=NodeMcu-4
+Added Pin To Net: NetName=NetNodeMcu_4 Pin=P3-4
+Added Net: Name=NetNodeMcu_4
+Added Pin To Net: NetName=NetNodeMcu_5 Pin=NodeMcu-5
+Added Pin To Net: NetName=NetNodeMcu_5 Pin=P3-5
+Added Net: Name=NetNodeMcu_5
+Added Pin To Net: NetName=NetNodeMcu_6 Pin=NodeMcu-6
+Added Pin To Net: NetName=NetNodeMcu_6 Pin=P3-6
+Added Net: Name=NetNodeMcu_6
+Added Pin To Net: NetName=NetNodeMcu_12 Pin=NodeMcu-12
+Added Pin To Net: NetName=NetNodeMcu_12 Pin=P3-12
+Added Net: Name=NetNodeMcu_12
+Added Pin To Net: NetName=NetNodeMcu_13 Pin=NodeMcu-13
+Added Pin To Net: NetName=NetNodeMcu_13 Pin=P3-13
+Added Net: Name=NetNodeMcu_13
+Added Pin To Net: NetName=NetNodeMcu_14 Pin=NodeMcu-14
+Added Pin To Net: NetName=NetNodeMcu_14 Pin=P3-14
+Added Net: Name=NetNodeMcu_14
+Added Pin To Net: NetName=NetNodeMcu_15 Pin=NodeMcu-15
+Added Pin To Net: NetName=NetNodeMcu_15 Pin=P3-15
+Added Net: Name=NetNodeMcu_15
+Added Pin To Net: NetName=NetNodeMcu_16 Pin=NodeMcu-16
+Added Pin To Net: NetName=NetNodeMcu_16 Pin=P2-15
+Added Net: Name=NetNodeMcu_16
+Added Pin To Net: NetName=NetNodeMcu_18 Pin=NodeMcu-18
+Added Pin To Net: NetName=NetNodeMcu_18 Pin=P2-13
+Added Net: Name=NetNodeMcu_18
+Added Pin To Net: NetName=NetNodeMcu_19 Pin=NodeMcu-19
+Added Pin To Net: NetName=NetNodeMcu_19 Pin=P2-12
+Added Net: Name=NetNodeMcu_19
+Added Pin To Net: NetName=NetNodeMcu_25 Pin=NodeMcu-25
+Added Pin To Net: NetName=NetNodeMcu_25 Pin=P2-6
+Added Net: Name=NetNodeMcu_25
+Added Pin To Net: NetName=NetNodeMcu_26 Pin=NodeMcu-26
+Added Pin To Net: NetName=NetNodeMcu_26 Pin=P2-5
+Added Net: Name=NetNodeMcu_26
+Added Member To Class: ClassName=Sheet1 Member=Component P2 Header 15
+Added Member To Class: ClassName=Sheet1 Member=Component P3 Header 15
+Added Room: Name=Sheet1

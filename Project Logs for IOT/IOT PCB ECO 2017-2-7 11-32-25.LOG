@@ -1,0 +1,96 @@
+Added Component: Designator=C4(C1206)
+Added Component: Designator=C5(C1206)
+Added Component: Designator=MC-L(HDR1X15)
+Added Component: Designator=MC-R(HDR1X15)
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=TFT(HDR1X14)
+Added Pin To Net: NetName=3V3 Pin=MC-L-5
+Added Pin To Net: NetName=3V3 Pin=MC-R-1
+Added Pin To Net: NetName=3V3 Pin=MC-R-10
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=C4-1
+Added Pin To Net: NetName=5V Pin=C5-1
+Added Pin To Net: NetName=5V Pin=MC-L-1
+Added Pin To Net: NetName=5V Pin=TFT-1
+Added Net: Name=5V
+Added Pin To Net: NetName=A0 Pin=MC-L-15
+Added Net: Name=A0
+Added Pin To Net: NetName=CS Pin=MC-R-5
+Added Pin To Net: NetName=CS Pin=TFT-3
+Added Net: Name=CS
+Added Pin To Net: NetName=D3 Pin=MC-R-12
+Added Pin To Net: NetName=D3 Pin=P1-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=MC-R-11
+Added Net: Name=D4
+Added Pin To Net: NetName=DC Pin=TFT-5
+Added Net: Name=DC
+Added Pin To Net: NetName=EN Pin=MC-L-4
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=MC-L-2
+Added Pin To Net: NetName=GND Pin=MC-L-6
+Added Pin To Net: NetName=GND Pin=MC-R-2
+Added Pin To Net: NetName=GND Pin=MC-R-9
+Added Pin To Net: NetName=GND Pin=TFT-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED Pin=MC-R-15
+Added Pin To Net: NetName=LED Pin=TFT-8
+Added Net: Name=LED
+Added Net: Name=NetC1_1
+Added Net: Name=NetC1_2
+Added Net: Name=NetC2_1
+Added Net: Name=NetC7_1
+Added Net: Name=NetC7_2
+Added Net: Name=NetC10_1
+Added Net: Name=NetD1_1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=RESET Pin=MC-R-13
+Added Pin To Net: NetName=RESET Pin=TFT-4
+Added Net: Name=RESET
+Added Pin To Net: NetName=RST Pin=MC-L-3
+Added Net: Name=RST
+Added Pin To Net: NetName=RSV Pin=MC-L-13
+Added Pin To Net: NetName=RSV Pin=MC-L-14
+Added Net: Name=RSV
+Added Pin To Net: NetName=RX Pin=MC-R-4
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=MC-R-8
+Added Pin To Net: NetName=SCK Pin=TFT-7
+Added Net: Name=SCK
+Added Pin To Net: NetName=SD2 Pin=MC-L-11
+Added Net: Name=SD2
+Added Pin To Net: NetName=SD3 Pin=MC-L-12
+Added Net: Name=SD3
+Added Pin To Net: NetName=SDI Pin=MC-R-6
+Added Pin To Net: NetName=SDI Pin=TFT-6
+Added Net: Name=SDI
+Added Pin To Net: NetName=SDO Pin=MC-R-7
+Added Pin To Net: NetName=SDO Pin=TFT-9
+Added Net: Name=SDO
+Added Pin To Net: NetName=T-CLK Pin=MC-L-7
+Added Pin To Net: NetName=T-CLK Pin=TFT-10
+Added Net: Name=T-CLK
+Added Pin To Net: NetName=T-CS Pin=MC-L-9
+Added Pin To Net: NetName=T-CS Pin=TFT-11
+Added Net: Name=T-CS
+Added Pin To Net: NetName=T-DIN Pin=MC-L-10
+Added Pin To Net: NetName=T-DIN Pin=P1-2
+Added Pin To Net: NetName=T-DIN Pin=TFT-12
+Added Net: Name=T-DIN
+Added Pin To Net: NetName=T-DO Pin=MC-L-8
+Added Pin To Net: NetName=T-DO Pin=P1-3
+Added Pin To Net: NetName=T-DO Pin=TFT-13
+Added Net: Name=T-DO
+Added Pin To Net: NetName=T-IRQ Pin=MC-R-14
+Added Pin To Net: NetName=T-IRQ Pin=TFT-14
+Added Net: Name=T-IRQ
+Added Pin To Net: NetName=T-SCK Pin=P1-4
+Added Net: Name=T-SCK
+Added Pin To Net: NetName=TX Pin=MC-R-3
+Added Net: Name=TX
+Added Net: Name=V-M
+Added Net: Name=VIN
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

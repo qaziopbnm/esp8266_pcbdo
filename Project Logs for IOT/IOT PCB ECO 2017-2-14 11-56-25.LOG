@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=CLK Pin=NodeMcu-7
+Removed Pin From Net: NetName=MISO Pin=NodeMcu-8
+Removed Pin From Net: NetName=CS Pin=NodeMcu-9
+Removed Pin From Net: NetName=MOSI Pin=NodeMcu-10
+Removed Pin From Net: NetName=D2 Pin=NodeMcu-11
+Removed Pin From Net: NetName=NetNodeMcu_12 Pin=NodeMcu-12
+Removed Pin From Net: NetName=NetNodeMcu_16 Pin=NodeMcu-16
+Removed Pin From Net: NetName=NetNodeMcu_25 Pin=NodeMcu-25
+Removed Pin From Net: NetName=NetNodeMcu_26 Pin=NodeMcu-26
+Removed Pin From Net: NetName=DC Pin=NodeMcu-27
+Removed Pin From Net: NetName=RESET Pin=NodeMcu-28
+Removed Pin From Net: NetName=T-IRQ Pin=NodeMcu-29
+Removed Pin From Net: NetName=CLK Pin=P1-1
+Removed Pin From Net: NetName=MISO Pin=P1-2
+Removed Pin From Net: NetName=MOSI Pin=P1-3
+Removed Pin From Net: NetName=D2 Pin=P1-4
+Removed Pin From Net: NetName=T-IRQ Pin=P2-2
+Removed Pin From Net: NetName=RESET Pin=P2-3
+Removed Pin From Net: NetName=DC Pin=P2-4
+Removed Pin From Net: NetName=NetNodeMcu_26 Pin=P2-5
+Removed Pin From Net: NetName=NetNodeMcu_25 Pin=P2-6
+Removed Pin From Net: NetName=NetNodeMcu_16 Pin=P2-15
+Removed Pin From Net: NetName=CLK Pin=P3-7
+Removed Pin From Net: NetName=MISO Pin=P3-8
+Removed Pin From Net: NetName=CS Pin=P3-9
+Removed Pin From Net: NetName=MOSI Pin=P3-10
+Removed Pin From Net: NetName=D2 Pin=P3-11
+Removed Pin From Net: NetName=NetNodeMcu_12 Pin=P3-12
+Removed Pin From Net: NetName=5V Pin=TFT-1
+Removed Pin From Net: NetName=GND Pin=TFT-2
+Removed Pin From Net: NetName=HCS Pin=TFT-3
+Removed Pin From Net: NetName=RESET Pin=TFT-4
+Removed Pin From Net: NetName=DC Pin=TFT-5
+Removed Pin From Net: NetName=HMOSI Pin=TFT-6
+Removed Pin From Net: NetName=HCLK Pin=TFT-7
+Removed Pin From Net: NetName=LED Pin=TFT-8
+Removed Pin From Net: NetName=HMISO Pin=TFT-9
+Removed Pin From Net: NetName=CLK Pin=TFT-10
+Removed Pin From Net: NetName=CS Pin=TFT-11
+Removed Pin From Net: NetName=MOSI Pin=TFT-12
+Removed Pin From Net: NetName=MISO Pin=TFT-13
+Removed Pin From Net: NetName=T-IRQ Pin=TFT-14
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Removed Member From Class: ClassName=Sheet1 Member=TFT
+Added Pin To Net: NetName=NetNodeMcu_12 Pin=NodeMcu-7
+Added Pin To Net: NetName=NetNodeMcu_16 Pin=NodeMcu-8
+Added Pin To Net: NetName=NetNodeMcu_25 Pin=NodeMcu-9
+Added Pin To Net: NetName=NetNodeMcu_26 Pin=NodeMcu-10
+Added Pin To Net: NetName=CS Pin=NodeMcu-11
+Added Pin To Net: NetName=T-IRQ Pin=NodeMcu-12
+Added Pin To Net: NetName=DC Pin=NodeMcu-26
+Added Pin To Net: NetName=LED Pin=NodeMcu-27
+Added Pin To Net: NetName=D2 Pin=NodeMcu-29
+Added Pin To Net: NetName=D2 Pin=P2-2
+Added Pin To Net: NetName=LED Pin=P2-4
+Added Pin To Net: NetName=DC Pin=P2-5
+Added Pin To Net: NetName=NetNodeMcu_12 Pin=P3-7
+Added Pin To Net: NetName=NetNodeMcu_16 Pin=P3-8
+Added Pin To Net: NetName=NetNodeMcu_25 Pin=P3-9
+Added Pin To Net: NetName=NetNodeMcu_26 Pin=P3-10
+Added Pin To Net: NetName=CS Pin=P3-11
+Added Pin To Net: NetName=T-IRQ Pin=P3-12
+Change Net Name : Old Net Name=CS New Net Name=NetNodeMcu_11
+Change Net Name : Old Net Name=D2 New Net Name=SD-CS
+Change Net Name : Old Net Name=NetNodeMcu_12 New Net Name=NetNodeMcu_7
+Change Net Name : Old Net Name=NetNodeMcu_16 New Net Name=NetNodeMcu_8
+Change Net Name : Old Net Name=NetNodeMcu_25 New Net Name=NetNodeMcu_9
+Change Net Name : Old Net Name=NetNodeMcu_26 New Net Name=NetNodeMcu_10
+Added Pin To Net: NetName=3V3 Pin=NodeMcu-16
+Added Pin To Net: NetName=3V3 Pin=NodeMcu-25
+Added Pin To Net: NetName=3V3 Pin=P2-6
+Added Pin To Net: NetName=3V3 Pin=P2-15
+Added Net: Name=3V3
+Added Pin To Net: NetName=T-CS Pin=NodeMcu-28
+Added Pin To Net: NetName=T-CS Pin=P2-3
+Added Net: Name=T-CS
+Added Room: Name=Sheet1

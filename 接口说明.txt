@@ -1,0 +1,6 @@
+отй╬фа  CS  --  HCS  --  GPIO_15
+отй╬фа  DC  --  GPIO_2
+отй╬фа  LED --  GPIO_0
+╢╔цЧфа  CS  --  GPIO_4
+╢╔цЧфа  TRQ --  GPIO_10
+дз╢Ф©╗  CS  --  GPIO_5

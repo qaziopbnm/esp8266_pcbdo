@@ -1,0 +1,5 @@
+Added Component: Designator=*(SHELL)
+Added Pin To Net: NetName=RX Pin=*-3
+Added Pin To Net: NetName=TX Pin=*-4
+Added Member To Class: ClassName=Sheet1 Member=Component * SHELL
+Added Room: Name=Sheet1

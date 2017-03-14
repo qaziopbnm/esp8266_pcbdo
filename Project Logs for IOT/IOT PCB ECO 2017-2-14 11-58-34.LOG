@@ -1,0 +1,20 @@
+Added Component: Designator=TFT-SPI-240X320(TFT-SPI-240X320)
+Added Pin To Net: NetName=T-IRQ Pin=TFT-SPI-240X320-1
+Added Pin To Net: NetName=HMISO Pin=TFT-SPI-240X320-2
+Added Pin To Net: NetName=HMOSI Pin=TFT-SPI-240X320-3
+Added Pin To Net: NetName=T-CS Pin=TFT-SPI-240X320-4
+Added Pin To Net: NetName=CLK Pin=TFT-SPI-240X320-5
+Added Pin To Net: NetName=HMISO Pin=TFT-SPI-240X320-6
+Added Pin To Net: NetName=LED Pin=TFT-SPI-240X320-7
+Added Pin To Net: NetName=HCLK Pin=TFT-SPI-240X320-8
+Added Pin To Net: NetName=HMOSI Pin=TFT-SPI-240X320-9
+Added Pin To Net: NetName=DC Pin=TFT-SPI-240X320-10
+Added Pin To Net: NetName=RESET Pin=TFT-SPI-240X320-11
+Added Pin To Net: NetName=HCS Pin=TFT-SPI-240X320-12
+Added Pin To Net: NetName=GND Pin=TFT-SPI-240X320-13
+Added Pin To Net: NetName=5V Pin=TFT-SPI-240X320-14
+Added Pin To Net: NetName=SD-CS Pin=TFT-SPI-240X320-15
+Added Pin To Net: NetName=MOSI Pin=TFT-SPI-240X320-16
+Added Pin To Net: NetName=MISO Pin=TFT-SPI-240X320-17
+Added Pin To Net: NetName=CLK Pin=TFT-SPI-240X320-18
+Added Member To Class: ClassName=Sheet1 Member=Component TFT-SPI-240X320 TFT_SPI-240X320
